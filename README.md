@@ -4,7 +4,7 @@
 https://www.coppeliarobotics.com/downloads
   -To launch V-REP, you need to execute the onboard script:
   
-./coppeliaSim.sh
+__./coppeliaSim.sh__
 
 -Load a map:
 - Drag ’n drop the file in CoppeliaSim from the file navigator
@@ -14,8 +14,8 @@ Or
  
  -Lauch binary
  
- make re for creat
+ __make re__ for creat
  
- ./pipes.sh
+ __./pipes.sh__
  
  -Watch the car finish the tack
