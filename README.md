@@ -1,9 +1,9 @@
 -Downloads CoppeliaSim Player V4.0.0 rev4 :
 
-  -Go to:
+- Go to:
   
 https://www.coppeliarobotics.com/downloads
-  -To launch V-REP, you need to execute the onboard script:
+- To launch V-REP, you need to execute the onboard script:
   
 __./coppeliaSim.sh__
 
