@@ -3,9 +3,7 @@
 - Go to:
   
 https://www.coppeliarobotics.com/downloads
-- To launch V-REP, you need to execute the onboard script:
-  
-__./coppeliaSim.sh__
+- To launch V-REP, you need to execute the onboard script:    __./coppeliaSim.sh__
 
 -Load a map:
 - Drag ’n drop the file in CoppeliaSim from the file navigator
