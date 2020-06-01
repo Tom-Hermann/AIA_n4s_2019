@@ -8,6 +8,7 @@ https://www.coppeliarobotics.com/downloads
 
 -Load a map:
 - Drag ’n drop the file in CoppeliaSim from the file navigator
+
 Or
 - File -> Open scene. . .scene tack1.ttt/track2.ttt/...
  
